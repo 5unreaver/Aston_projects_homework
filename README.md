@@ -1,2 +1,3 @@
-# Aston_projects_homework
-В данном репозитории содержатся все домашние задания по курсу Астона. Разделены по урокам.
+Вводил в консоли это:
+allure serve C:\projects_java\Lesson_18\target\allure-results
+И получал свои тесты по Allure

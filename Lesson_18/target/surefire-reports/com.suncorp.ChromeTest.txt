@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.suncorp.ChromeTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 56.368 s - in com.suncorp.ChromeTest
